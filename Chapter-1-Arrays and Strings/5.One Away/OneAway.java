@@ -3,7 +3,7 @@ import java.util.*;
 public class OneAway {
     public static boolean isOneAway(String s1, String s2) {
         // if the difference in length is more than 1, they are definitely not one edit away
-        int diff = s1.length() - s2.length();
+        int diff = Math.abs(s1.length() - s2.length());
         if(diff > 1) return false;
 
         // take index as the length of the larger string
