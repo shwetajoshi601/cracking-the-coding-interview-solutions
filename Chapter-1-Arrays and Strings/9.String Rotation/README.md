@@ -21,7 +21,7 @@ There are two solutions to this problem:
     In this example, j=8
     Place another itertor i=0 at s1. Now iterate the to strings and compare character by character. If j=length of s1 at any point, then re-position j at 0. If any of the characters do not match, the strings aren't rotations.
 
-    Refer [this]() solution.
+    Refer [this](https://github.com/shwetajoshi601/cracking-the-coding-interview-solutions/blob/master/Chapter-1-Arrays%20and%20Strings/9.String%20Rotation/StringRotation2.java) solution.
 
 2. Another simple solution is as follows:
     
@@ -31,6 +31,6 @@ There are two solutions to this problem:
     ```
     Now check if s1 is a substring of the new string. If s1 is a substring, they are rotations of each other, else, they are not.
 
-    Refer [this]() solution.
+    Refer [this](https://github.com/shwetajoshi601/cracking-the-coding-interview-solutions/blob/master/Chapter-1-Arrays%20and%20Strings/9.String%20Rotation/StringRotation.java) solution.
 
 Note: In java, .indexOf() method can be used to check if a string is a substring of another.
