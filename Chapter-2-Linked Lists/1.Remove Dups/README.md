@@ -1,7 +1,7 @@
 # Problem Statement
 
 Write code to remove duplicates from an unsorted Linked List.
-How would you solve this problem is a temporary buffer is not allowed?
+How would you solve this problem if a temporary buffer is not allowed?
 
 ## Points to Remember
 
