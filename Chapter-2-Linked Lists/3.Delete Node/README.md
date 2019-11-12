@@ -1,6 +1,10 @@
 # Problem Statement
 
-Write an algorithm to return Kth to last elements of a singly Linked List.
+Implement an algorithm to delete a node in the middle (i.e. any node but the first and last node not the exact middle) of a singly linked list, given only access to that node.
+For example,
+
+    Input: Node c from the LinkedList a->b->c->d->e->f
+    Output: Nothing is returned but the new linked list looks like a->b->d->e->f
 
 ## Points to Remember
 
