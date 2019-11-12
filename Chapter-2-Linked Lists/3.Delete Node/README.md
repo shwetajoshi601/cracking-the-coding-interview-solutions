@@ -24,10 +24,3 @@ For example, consider the node to be deleted with value "c".
         a  b  d  d  e  f
 
     Final list: a   b   c   d   e   f
-
-## Running the code
-
-    javac LinkedList.java
-    java LinkedList
-
-Enter the information prompted on the console.
