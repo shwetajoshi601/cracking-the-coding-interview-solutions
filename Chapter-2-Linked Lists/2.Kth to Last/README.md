@@ -16,3 +16,9 @@ In this problem, we assume that when k=1, we return the last element. When k=2, 
                     p       q
         10  20  30  40  50  null
     ```
+## Running the code
+
+    javac LinkedList.java
+    java LinkedList
+
+Enter the information prompted on the console.
