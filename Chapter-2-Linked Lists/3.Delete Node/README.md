@@ -27,4 +27,4 @@ For example, consider the node to be deleted with value "c".
               n---->| 
         a  b  d  d  e  f
 
-    Final list: a   b   c   d   e   f
+    Final list: a   b   d   e   f
